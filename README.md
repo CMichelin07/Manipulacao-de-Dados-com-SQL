@@ -2,7 +2,7 @@
 
 Projeto desenvolvido como parte do curso de **Analista de Dados** da EBAC, focado em técnicas de **manipulação e consulta de dados utilizando SQL** em conjuntos de dados fictícios.
 
-## 📌 Objetivo
+## Objetivo
 Este projeto teve como principal propósito exercitar o uso de SQL para manipulação de dados em diferentes contextos, com foco em:
 
 - Definição dos dados e sua estrutura (`definicao.sql`).
@@ -25,11 +25,11 @@ Projeto_SQL_EBAC/                   # Branch principal contendo este projeto
 └── manipulacao.sql               # Rotinas e scripts de manipulação diversos
 ```
 
-## 🛠 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **SQL** — linguagem utilizada para manipulação de dados, consultas, filtragem, agregação e junção de tabelas.
 - **Banco de dados relacional** — ambiente em que os scripts são executados (MySQL, PostgreSQL, SQLite, etc.; ajustar conforme o seu uso).
 
-## 🚀 Como Executar
+## Como Executar
 1. **Clonar o repositório**  
    ```bash
    git clone https://github.com/CMichelin07/Manipulacao-de-Dados-com-SQL.git
@@ -51,7 +51,7 @@ Projeto_SQL_EBAC/                   # Branch principal contendo este projeto
    ```
    Ajuste conforme a forma como seu sistema carrega scripts (por exemplo, `mysql < script.sql` ou no editor de SQL).
 
-## 📊 O que Você Vai Aprender
+## O que Você Vai Aprender
 - Como estruturar e definir tabelas SQL com dados fictícios.
 - Como realizar consultas simples e aplicar filtros.
 - Uso de **condicionais** para lógica dentro das consultas.
